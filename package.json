@@ -1,0 +1,12 @@
+{
+  "name": "single-spa-playground",
+  "version": "0.1.0",
+  "packageManager": "pnpm@8.6.10",
+  "scripts": {
+    "dev": "turbo run dev"
+  },
+  "devDependencies": {
+    "openapi-typescript-codegen": "^0.25.0",
+    "turbo": "^1.9.8"
+  }
+}
