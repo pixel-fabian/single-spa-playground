@@ -2,7 +2,13 @@
 
 ## Status
 
--
+The goal is to have [single-spa.js](https://single-spa.js.org/) with [Layout Engine](https://single-spa.js.org/docs/layout-overview) + [Vue.js v3](https://vuejs.org/) with [Vite](https://vitejs.dev/) running.
+
+Error in browser console:
+
+```
+Uncaught SyntaxError: application '@playground/app1-vue' died in status LOADING_SOURCE_CODE: import declarations may only appear at top level of a module
+```
 
 ## Features
 
